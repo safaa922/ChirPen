@@ -1,16 +1,45 @@
-# firebaseplaylist
+# ChirPen
 
-A new Flutter project.
+A modern Notes & Categories app built using Flutter + Firebase with a clean UI and smooth user experience.
 
-## Getting Started
+🔹 Features included in Chirpen:
 
-This project is a starting point for a Flutter application.
+✅ Secure Authentication with Firebase
+• Email & Password Login
+• Google Sign-In
+• Email Verification
+• Forgot Password functionality
 
-A few resources to get you started if this is your first Flutter project:
+✅ Smart Notes Management
+• Create, Edit & Delete Notes
+• Organize notes inside Categories
+• Pin/Favorite important notes ⭐
+• Real-time search by note title 🔍
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✅ Beautiful Category System
+• Add categories with custom images 🖼️
+• Edit categories anytime
+• Cloud image upload using Cloudinary
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ Localization Support 🌍
+• Multi-language support (English & Arabic)
+• Dynamic language switching using GetX
+
+✅ Clean & Responsive UI 🎨
+• Custom-designed components
+• Modern gradients & animations
+• Optimized mobile experience
+
+✅ Firebase Integration ☁️
+• Firebase Authentication
+• Cloud Firestore Database
+• Firebase Storage integration
+• Real-time data handling
+
+✅ Extra Features
+• Persistent local settings with SharedPreferences
+• Email verification flow
+• Smooth navigation & state management using GetX
+
+Tech Stack:
+Flutter • Firebase • Firestore • GetX • Cloudinary • SharedPreferences
