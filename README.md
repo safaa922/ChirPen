@@ -1,6 +1,6 @@
-## ChirPen
+# ChirPen
 
-# A modern Notes & Categories app built using Flutter + Firebase with a clean UI and smooth user experience.
+## A modern Notes & Categories app built using Flutter + Firebase with a clean UI and smooth user experience.
 
 🔹 Features included in Chirpen:
 
