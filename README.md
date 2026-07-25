@@ -2,6 +2,9 @@
 
 ## A modern Notes & Categories app built using Flutter + Firebase with a clean UI and smooth user experience.
 
+<p align="center">
+  <img src="./Chirpen_ui_2.png" alt="Chirpen UI" width="900">
+</p>
 🔹 Features included in Chirpen:
 
 ✅ Secure Authentication with Firebase
